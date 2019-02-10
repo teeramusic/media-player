@@ -1,6 +1,6 @@
 # Media player
 
-To try this project, go to: http://nt1m.github.io/media-player
+To try this project, go to: https://teeramusic.github.io/media-player/
 
 Optimized for Firefox and Chrome.
 
