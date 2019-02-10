@@ -27,7 +27,7 @@ In addition to being a web app, you can also run the Media Player as a standalon
 To get started, you'll need NodeJS, Npm and optionally git.
 
 ### Install the Prerequisites
-Download the project (by downloading the zipped project or by typing `git clone https://github.com/nt1m/media-player`)
+Download the project (by downloading the zipped project or by typing `git clone https://github.com/teeramusic/media-player`)
 then run the following command in the root directory.
 ```
 npm i
