@@ -549,10 +549,14 @@ var MediaPlayer = {
     }
   }
 };
-
+var ready = 0;
 window.addEventListener("load", function() {
-	setTimeout(function() {
-		console.log('ready');
-      MediaPlayer.init();
-  }, 5000);
+	window.addEventListener("click", function() {
+		if(!ready){
+	 	    console.log('ready');
+      		    MediaPlayer.init();
+		 ready++;
+		}
+
+  }, false);
 }, false);
